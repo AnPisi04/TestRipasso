@@ -2,10 +2,11 @@
 
 class Class1{
 	
-	protected int a;
+	protected int a, b;
 	
 	public Class1() {
 		a = 3;
+		b= 5;
 	}
 	
 	public Class1(int a) {
